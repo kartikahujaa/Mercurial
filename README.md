@@ -1,15 +1,3 @@
-
-<div align = "center" style = "display:flex; flex-direction:row;">
-  <img src = "https://img.shields.io/github/license/ranveerchaudhary/Mercurial?style=for-the-badge">
-  <img src = "https://img.shields.io/github/issues/ranveerchaudhary/Mercurial?style=for-the-badge">
-  <img src = "https://img.shields.io/github/issues-pr/ranveerchaudhary/Mercurial?style=for-the-badge">
-</div>
-
-<br>
-
-<div align="center">
-  <img src = "https://github.com/ranveerchaudhary/Mercurial/blob/main/Mercurial.gif">
-</div>
 <p align = "center">
   Mercurial is an intelligent music recommendation app that uses cutting-edge machine learning algorithms to suggest incredible tracks to the user. By analyzing the music that the user likes on the app, Mercurial recommends similar tracks based on their vibe. This personalized approach to music discovery ensures that users are always discovering new and exciting music that they love.
 </p>
@@ -65,7 +53,7 @@
 <h2 id = "basics">The Basics :page_facing_up:</h2>
 
 <h3 id = "history">1. History :thought_balloon:</h3>
-<p>• <strong>Mercurial</strong> was created in 2022 after the creator Ranveer Chaudhary found it difficult to discover new music that matched his taste. He tried various music recommendation apps but none of them seemed to work for him, frustrated with the lack of options, he decided to create his own music recommendation app that would help people like him find new music based on the vibe they seek. </p>
+<p>• <strong>Mercurial</strong> was created in 2022 after the creator Kartik Ahuja found it difficult to discover new music that matched his taste. He tried various music recommendation apps but none of them seemed to work for him, frustrated with the lack of options, he decided to create his own music recommendation app that would help people like him find new music based on the vibe they seek. </p>
 
 <br>
 
@@ -166,8 +154,6 @@ Don't forget to give the project a star! Thanks again!
 
 <h2 id = "contact">Contact :mailbox_with_mail:</h2>
 
-Email: [ranveerchaudhary1000+github@gmail.com](ranveerchaudhary1000+github@gmail.com)
+Email: [kartik130203+github@gmail.com](kartik130203+github@gmail.com)
 
-Portfolio Website: [https://ranveerchaudhary.github.io](https://ranveerchaudhary.github.io)
-
-Linkedin Profile: [https://www.linkedin.com/in/ranveerchaudhary1](https://www.linkedin.com/in/ranveerchaudhary1)
+Linkedin Profile: [https://www.linkedin.com/in/kartik-ahuja](https://www.linkedin.com/in/kartik-ahuja-8a1106218/)
